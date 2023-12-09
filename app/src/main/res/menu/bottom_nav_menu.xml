@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:id="@+id/bottom_profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"
+        />
+    <item
+        android:id="@+id/bottom_game"
+        android:title="Game"
+        android:icon="@drawable/baseline_gamepad_24"
+        />
+    <item
+        android:id="@+id/bottom_work"
+        android:title="Work"
+        android:icon="@drawable/baseline_work_24"
+        />
+    <item
+        android:id="@+id/bottom_retrofit"
+        android:title="Retrofit"
+        android:icon="@drawable/baseline_add_box_24"
+        />
+</menu>
